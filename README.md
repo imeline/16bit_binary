@@ -15,7 +15,8 @@
 1. int my_htob(char c) 
    1) 출력 : 16진수의 한 자리수를 이진수로 바꾼 것을 print
    2) return : 그에 해당하는 bit를 return
+   3) 변수 print_start : 이진수를 1부터 출력하도록 함. ex) 0010 -> 10
 
 2. main 함수
-   1) 첫 for문에서 입력 값 한 자리씩 my_htob 함수 파라미터로 넘겨줘서 이진수로 바꾼 값을 print하고 bit값을 받음
-   2) 두번째 for문에서 받은 bit값을 차례대로 출력
+   1) 첫 for문 : 입력 값 한 자리씩 my_htob 함수 파라미터로 넘겨줘서 이진수로 바꾼 값을 print하고 bit값을 받음
+   2) 두번째 for문 : 받은 bit값을 차례대로 출력
