@@ -1,6 +1,6 @@
 # 16비트 데이터를 2진수로 출력하는 프로그램
 
-![image](https://user-images.githubusercontent.com/128706341/231082505-353cd77a-2553-4724-95f8-332feef6cda3.png)
+![image](https://user-images.githubusercontent.com/128706341/231082662-c846da4e-c54c-410b-ae28-4e8a02689d34.png)
 
 입력은 16진수로 
 
